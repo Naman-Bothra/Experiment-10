@@ -18,6 +18,24 @@ Series → 1-dimensional labeled array (like a column in Excel)
 
 DataFrame → 2-dimensional labeled table (like a spreadsheet or SQL table)
 
+Why Pandas is Used:
+
+Handles large datasets easily
+
+Provides fast data operations
+
+Simplifies data preprocessing for machine learning
+
+Advantages of Pandas: 
+
+Easy to learn and use
+
+Saves time in data preprocessing
+
+Powerful for real-world datasets
+
+Essential for Data Science & ML
+
 2. Data Cleaning
 
 Handling missing values
